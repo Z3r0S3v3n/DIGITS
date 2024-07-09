@@ -20,3 +20,4 @@ scikit-fmm>=0.0.9
 python-magic>=0.2
 boto>=2.48.0
 
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
